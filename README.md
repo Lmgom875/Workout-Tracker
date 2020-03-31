@@ -10,9 +10,9 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 * [Morgan](https://www.npmjs.com/package/morgan)
 
 ### Features
-# Create a new workout plan.
-# Update a existing workout plan.
-# View Workout progress in grafics.
+* Create a new workout plan.
+* Update a existing workout plan.
+* View Workout progress in grafics.
 
 
 
