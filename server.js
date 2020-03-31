@@ -14,7 +14,7 @@ app.use(express.static("public"));
 app.use(require("./routes/api-routes"));
 app.use(require("./routes/html-routes"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://user:passw0rd@ds159926.mlab.com:59926/heroku_5gflmvpn", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://user:passw0rd@ds147267.mlab.com:47267/heroku_dx5p1qz2", {
   useNewUrlParser: true,
   useUnifiedTopology: true 
 });
