@@ -14,5 +14,9 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 * Update a existing workout plan.
 * View Workout progress in grafics.
 
+### Deployed
+* [Heroku](https://lmgom-workout-tracker.herokuapp.com/)
+* [Github](https://github.com/Lmgom875/Workout-Tracker)
+
 
 
